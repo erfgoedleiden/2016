@@ -6,5 +6,5 @@
 [wwww.mapwarper.net](http://wwww.mapwarper.net)  
 [www.oldnyc.org](http://www.oldnyc.org)  
 [buildinginspector.nypl.org](http://buildinginspector.nypl.org)  
-[www.github.com/nypl-spacetime/map-vectorizer](http://www.github.com/nypl-spacetime/map-vectorizer)
+[www.github.com/nypl-spacetime/map-vectorizer](http://www.github.com/nypl-spacetime/map-vectorizer)  
 [omnesviae.org](http://omnesviae.org/nl/)
