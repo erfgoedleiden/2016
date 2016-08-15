@@ -17,3 +17,10 @@
 [Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)  
 [Erfgoed Leiden op GitHub](https://github.com/erfgoedleiden)   
 [Kaart en Huis Brugge](http://magis.kaartenhuisbrugge.be/#)  
+
+Erik Meerburg - Carto demo  
+[Groei van Delft](https://erikmeerburg.carto.com/viz/ac99e48c-8635-11e5-a076-0e31c9be1b51/public_map)  
+[I scraped KPN](http://blog.puckipedia.com/blog/i-scraped-kpn/)   
+[KPN internet snelheden in Delft](https://puckipedia.carto.com/viz/a2eb0a0e-acbb-11e5-9e02-0ef7f98ade21/public_map)  
+[Mass shootings](https://erikmeerburg.carto.com/viz/3a2b3c28-68dc-11e5-97f4-0e31c9be1b51/public_map)  
+[Shooting tracker](http://www.shootingtracker.com/)  
