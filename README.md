@@ -18,6 +18,7 @@
 [Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)  
 [Erfgoed Leiden op GitHub](https://github.com/erfgoedleiden)   
 [Kaart en Huis Brugge](http://magis.kaartenhuisbrugge.be/#)  
+[Verdwenen gebouwen](http://www.verdwenengebouwen.nl/)
 
 # Erik Meerburg - Carto demo  
 [Groei van Delft](https://erikmeerburg.carto.com/viz/ac99e48c-8635-11e5-a076-0e31c9be1b51/public_map)  
