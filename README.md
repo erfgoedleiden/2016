@@ -27,3 +27,7 @@
 [KPN internet snelheden in Delft](https://puckipedia.carto.com/viz/a2eb0a0e-acbb-11e5-9e02-0ef7f98ade21/public_map)  
 [Mass shootings](https://erikmeerburg.carto.com/viz/3a2b3c28-68dc-11e5-97f4-0e31c9be1b51/public_map)  
 [Shooting tracker](http://www.shootingtracker.com/)  
+
+# Willem Hoffmans - geo-coderen
+[NLExtract](www.nlextract.nl)   
+[PostGIS](http://postgis.net/)  
