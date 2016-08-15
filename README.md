@@ -8,7 +8,7 @@
 [www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
 [www.erfgeo.nl](http://www.erfgeo.nl)  
 [www.histograph.io](http://www.histograph.io)  
-[wwww.mapwarper.net](http://wwww.mapwarper.net)  
+[wwww.mapwarper.net](http://www.mapwarper.net)  
 [www.oldnyc.org](http://www.oldnyc.org)  
 [buildinginspector.nypl.org](http://buildinginspector.nypl.org)  
 [www.github.com/nypl-spacetime/map-vectorizer](http://www.github.com/nypl-spacetime/map-vectorizer)  
