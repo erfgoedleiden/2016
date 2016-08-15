@@ -5,6 +5,9 @@
 
 # Ellen Gehring - Erfgoed Leiden
 [www.erfgoedleiden.nl](http://www.erfgoedleiden.nl)  
+[Cultuur historische waardenkaart](https://www.leidseregioinkaart.nl/kaarten/Cultuurhistorische_waarden/index.html)  
+[Archeologische waardenkaart](https://www.leidseregioinkaart.nl/kaarten/Archeologie/index.html)  
+[Bouwhistorische waardenkaart](https://www.leidseregioinkaart.nl/kaarten/Bouwhistorie/index.html)  
 [www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
 [www.opensearch.org](http://www.opensearch.org)  
 [www.erfgeo.nl](http://www.erfgeo.nl)  
