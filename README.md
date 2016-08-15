@@ -1,4 +1,9 @@
-# Interessante links uit de presentatie van Ellen Gehring
+# Algemeen
+[Geo Academie] (http://www.geo-academie.nl)
+[Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[GitHub Desktop](https://desktop.github.com/
+
+# Presentatie Ellen Gehring - Erfgoed Leiden
 [www.erfgoedleiden.nl](http://www.erfgoedleiden.nl)  
 [www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
 [www.erfgeo.nl](http://www.erfgeo.nl)  
@@ -12,4 +17,3 @@
 [Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)  
 [Erfgoed Leiden op GitHub](https://github.com/erfgoedleiden)   
 [Kaart en Huis Brugge](http://magis.kaartenhuisbrugge.be/#)  
-[Geo Academie] (http://www.geo-academie.nl)
