@@ -5,7 +5,8 @@
 
 # Presentatie Ellen Gehring - Erfgoed Leiden
 [www.erfgoedleiden.nl](http://www.erfgoedleiden.nl)  
-[www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
+[www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document) 
+[www.opensearch.org](http://www.opensearch.org)
 [www.erfgeo.nl](http://www.erfgeo.nl)  
 [www.histograph.io](http://www.histograph.io)  
 [wwww.mapwarper.net](http://www.mapwarper.net)  
