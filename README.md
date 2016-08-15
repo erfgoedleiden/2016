@@ -1,7 +1,7 @@
 # Algemeen
 [Geo Academie] (http://www.geo-academie.nl)
 [Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
-[GitHub Desktop](https://desktop.github.com/
+[GitHub Desktop](https://desktop.github.com/)
 
 # Presentatie Ellen Gehring - Erfgoed Leiden
 [www.erfgoedleiden.nl](http://www.erfgoedleiden.nl)  
