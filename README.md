@@ -1,5 +1,5 @@
 # Algemeen
-[Geo Academie] (http://www.geo-academie.nl)
+[Geo Academie] (http://www.geo-academie.nl)  
 [Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 [GitHub Desktop](https://desktop.github.com/)
 
