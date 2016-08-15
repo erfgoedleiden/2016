@@ -12,3 +12,4 @@
 [Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)  
 [Erfgoed Leiden op GitHub](https://github.com/erfgoedleiden)   
 [Kaart en Huis Brugge](http://magis.kaartenhuisbrugge.be/#)  
+[Geo Academie] (http://www.geo-academie.nl)
