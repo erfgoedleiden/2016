@@ -3,7 +3,7 @@
 [Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 [GitHub Desktop](https://desktop.github.com/)
 
-# Presentatie Ellen Gehring - Erfgoed Leiden
+# Ellen Gehring - Erfgoed Leiden
 [www.erfgoedleiden.nl](http://www.erfgoedleiden.nl)  
 [www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
 [www.opensearch.org](http://www.opensearch.org)  
