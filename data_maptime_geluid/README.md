@@ -1,0 +1,6 @@
+De datasets komen uit een simulatieprogramma. Het bevat een paar fictieve gebouwen met elk een aantal verdiepingen en per verdieping is het geluidsniveau aangegeven. Je kunt de BGT oid eronder hangen.
+
+Shapefile bevat een aantal komlommen: x, y, id, naam gebouw en en per verdieping een z met hoogte (z6 = z op 6 m hoogte, z125 = z op 12,5 m hoogte).    
+Elke xy komt meerdere keren voor, nl voor elke kolom z. In de z staat het aantal decibels op die verdieping.   
+
+Excel bevat unieke xy met daarnaast kolom voor elke bijbehorende verdieping. Dit is handiger bij het maken van een staafdiagram.
