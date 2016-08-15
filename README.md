@@ -8,5 +8,5 @@
 [buildinginspector.nypl.org](http://buildinginspector.nypl.org)  
 [www.github.com/nypl-spacetime/map-vectorizer](http://www.github.com/nypl-spacetime/map-vectorizer)  
 [omnesviae.org](http://omnesviae.org/nl/)
-[Erfgoed Leiden - Data voor dummies](https://www.erfgoedleiden.nl/educatie/open-data-blog)
-[Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)
+[Erfgoed Leiden - Data voor dummies](https://www.erfgoedleiden.nl/educatie/open-data-blog)  
+[Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)  
