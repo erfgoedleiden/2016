@@ -21,6 +21,7 @@
 [Erfgoed Leiden op GitHub](https://github.com/erfgoedleiden)   
 [Kaart en Huis Brugge](http://magis.kaartenhuisbrugge.be/#)  
 [Verdwenen gebouwen](http://www.verdwenengebouwen.nl/)
+[Erfgeo Proxy](http://www.hicsuntleones.nl/erfgeoproxy/)
 
 ## Thijs Schouten - GitHub   
 [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
