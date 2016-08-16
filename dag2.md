@@ -5,6 +5,7 @@
 [Wet openbaarheid van bestuur](http://wetten.overheid.nl/BWBR0005252/2015-07-18)  
 [Wet hergebruik van overheidsinformatie](http://wetten.overheid.nl/BWBR0036795/2015-07-18)  
 [Wet open overheid](https://www.eerstekamer.nl/wetsvoorstel/33328_initiatiefvoorstel_voortman)  
+[European Data Portal](https://www.europeandataportal.eu/)
 [data.overheid.nl](http://data.overheid.nl)  
 [Nationaal Georegister](http://www.nationaalgeoregister.nl)  
 [Provinciaal Georegister](http://www.provinciaalgeoregister.nl)  
@@ -22,7 +23,8 @@
 
 ## Willy Bakker - Overpass API
 [Workshop Overpass API](https://github.com/FrieseWoudloper/workshop-maptime2016-overpass/blob/master/README.md)  
-[Natuurijsbanen in OpenStreetMap](https://friesewoudloper.wordpress.com/2014/01/26/natuurijsbanen-in-openstreetmap/)
+[Natuurijsbanen in OpenStreetMap](https://friesewoudloper.wordpress.com/2014/01/26/natuurijsbanen-in-openstreetmap/)  
+[Waddenwandelen en Open Data](https://friesewoudloper.wordpress.com/2013/03/17/waddenwandelen-en-open-data/)  
 
 ## Tyler Bird - Carto
 
