@@ -8,6 +8,7 @@
 [www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
 [www.opensearch.org](http://www.opensearch.org)  
 [www.erfgeo.nl](http://www.erfgeo.nl)  
+[www.erfgoedenlocatie.nl](http://www.erfgoedenlocatie.nl/)
 [Toponiemen standaardiseren](http://standaardiseren.erfgeo.nl/)  
 [www.histograph.io](http://www.histograph.io)  
 [wwww.mapwarper.net](http://www.mapwarper.net)  
