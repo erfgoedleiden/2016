@@ -23,9 +23,8 @@
 
 ## Willy Bakker - Overpass API
 [Workshop Overpass API](https://github.com/FrieseWoudloper/workshop-maptime2016-overpass/blob/master/README.md)  
-[Natuurijsbanen in OpenStreetMap](https://friesewoudloper.wordpress.com/2014/01/26/natuurijsbanen-in-openstreetmap/)  
-[Waddenwandelen en Open Data](https://friesewoudloper.wordpress.com/2013/03/17/waddenwandelen-en-open-data/)  
 
 ## Tyler Bird - Carto
+[Carto](http://www.carto.com)
 
 
