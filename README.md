@@ -1,36 +1,6 @@
-# Algemeen
-[Geo Academie] (http://www.geo-academie.nl)  
-[Markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
-[GitHub Desktop](https://desktop.github.com/)
+Van 15 tot en met 20 augustus wordt op het Geofort in Herwijnen Maptime Summercamp georganiseerd.  
+Deze repository bevat resultaten van het Summercamp.  
+Voor meer informatie of ons blog, kun je ook een kijkje nemen op [www.MenWhoStareAtMaps.org](http://www.menwhostareatmaps.org)
 
-# Ellen Gehring - Erfgoed Leiden
-[www.erfgoedleiden.nl](http://www.erfgoedleiden.nl)  
-[Cultuur historische waardenkaart](https://www.leidseregioinkaart.nl/kaarten/Cultuurhistorische_waarden/index.html)  
-[Archeologische waardenkaart](https://www.leidseregioinkaart.nl/kaarten/Archeologie/index.html)  
-[Bouwhistorische waardenkaart](https://www.leidseregioinkaart.nl/kaarten/Bouwhistorie/index.html)  
-[www.erfgoedleiden.nl/api/opensearch/description-document](http://www.erfgoedleiden.nl/api/opensearch/description-document)  
-[www.opensearch.org](http://www.opensearch.org)  
-[www.erfgeo.nl](http://www.erfgeo.nl)  
-[Toponiemen standaardiseren](http://standaardiseren.erfgeo.nl/)  
-[www.histograph.io](http://www.histograph.io)  
-[wwww.mapwarper.net](http://www.mapwarper.net)  
-[www.oldnyc.org](http://www.oldnyc.org)  
-[buildinginspector.nypl.org](http://buildinginspector.nypl.org)  
-[www.github.com/nypl-spacetime/map-vectorizer](http://www.github.com/nypl-spacetime/map-vectorizer)  
-[omnesviae.org](http://omnesviae.org/nl/)  
-[Erfgoed Leiden - Data voor dummies](https://www.erfgoedleiden.nl/educatie/open-data-blog)  
-[Erfgoed Leiden - Data voor gevorderden](https://www.erfgoedleiden.nl/educatie/data-voor-gevorderden)  
-[Erfgoed Leiden op GitHub](https://github.com/erfgoedleiden)   
-[Kaart en Huis Brugge](http://magis.kaartenhuisbrugge.be/#)  
-[Verdwenen gebouwen](http://www.verdwenengebouwen.nl/)
-
-# Erik Meerburg - Carto demo  
-[Groei van Delft](https://erikmeerburg.carto.com/viz/ac99e48c-8635-11e5-a076-0e31c9be1b51/public_map)  
-[I scraped KPN](http://blog.puckipedia.com/blog/i-scraped-kpn/)   
-[KPN internet snelheden in Delft](https://puckipedia.carto.com/viz/a2eb0a0e-acbb-11e5-9e02-0ef7f98ade21/public_map)  
-[Mass shootings](https://erikmeerburg.carto.com/viz/3a2b3c28-68dc-11e5-97f4-0e31c9be1b51/public_map)  
-[Shooting tracker](http://www.shootingtracker.com/)  
-
-# Willem Hoffmans - geo-coderen
-[NLExtract](www.nlextract.nl)   
-[PostGIS](http://postgis.net/)  
+* [Dag 1](dag1.md)
+* [Dag 2](dag2.md)

@@ -1,7 +1,7 @@
-## Dag 2 Maptime Summercamp
+# Dag 2 Maptime Summercamp
 
-# Paul Suijkerbuijk - Open Data
+## Paul Suijkerbuijk - Open Data
 
-# Willy Bakker - Overpass API
+## Willy Bakker - Overpass API
 
-# Tyler Bird - Carto
+## Tyler Bird - Carto
