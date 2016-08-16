@@ -7,11 +7,13 @@
 [Wet open overheid](https://www.eerstekamer.nl/wetsvoorstel/33328_initiatiefvoorstel_voortman)  
 [data.overheid.nl](http://data.overheid.nl)  
 [Nationaal Georegister](http://www.nationaalgeoregister.nl)  
+[Provinciaal Georegister](http://www.provinciaalgeoregister.nl)  
+[Europeana](http://www.europeana.eu)  
 [Open Cultuur Data](http://www.opencultuurdata.nl/)  
 [Reader Open Cultuur Data Masterclass](http://www.opencultuurdata.nl/wp-content/uploads/2015/02/OCDReader2015web.pdf)  
 [Raadsinformatiebrief 'Openbaarheid van data in de openbare ruimte' Gemeente Eindhoven](http://eindhoven.notudoc.nl/cgi-bin/showdoc.cgi/action=view/id=1347107/RIB__Openbaarheid_van_data_in_de_openbare_ruimte.pdf#search=%2215r6494%22)  
 [Uitgangspunten Open Data](https://data.overheid.nl/over-open-data)  
-[www.creativecommons.nl](http://www.creativecommons.nl)  
+[Creative Commons](http://www.creativecommons.nl)  
 [Pictoright](http://www.pictoright.nl/)  
 [Het Grote Privacy Experiment](https://decorrespondent.nl/5081/Kom-naar-Het-Grote-Privacy-Experiment-de-datum-is-bekend-net-als-jouw-data/942237417462-60ee28f6)  
 [Aardbevingen animatie van Roelard Smit in Carto](https://roelart.carto.com/viz/a4416402-5380-11e3-b820-c51311935c5c/public_map)  
@@ -23,3 +25,5 @@
 [Natuurijsbanen in OpenStreetMap](https://friesewoudloper.wordpress.com/2014/01/26/natuurijsbanen-in-openstreetmap/)
 
 ## Tyler Bird - Carto
+
+
