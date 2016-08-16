@@ -38,3 +38,6 @@
 ## Willem Hoffmans - Geocoderen   
 [NLExtract](http://www.nlextract.nl)   
 [PostGIS](http://postgis.net/)  
+
+![Kick-off Maptime Summercamp 2016](afbeeldingen/kick-off.jpg)   
+Bron: 20160815 foto door Marga te Woerd
