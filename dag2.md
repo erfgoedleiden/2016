@@ -23,9 +23,8 @@
 
 ## Willy Bakker - Overpass API
 [Workshop Overpass API](https://github.com/FrieseWoudloper/workshop-maptime2016-overpass/blob/master/README.md)  
+[IJsbanen in Groningen](https://friesewoudloper.wordpress.com/2014/01/)   
 
 ## Tyler Bird - Carto
 [Carto](http://www.carto.com)   
 [Tasks Missing Maps Mapathon april 2016](https://github.com/rodekruis/missingmaps/blob/gh-pages/tasks/benin/teams.md)   
-
-
