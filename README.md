@@ -4,3 +4,4 @@ Voor meer informatie of ons blog, kun je ook een kijkje nemen op [www.MenWhoStar
 
 * [Dag 1](dag1.md)
 * [Dag 2](dag2.md)
+* [Dag 3](dag3.md)
