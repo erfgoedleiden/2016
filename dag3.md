@@ -1,1 +1,19 @@
-[Interactive Data Visualization - Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+Dag 3
+
+# Bert Spaan - NYC Space/Time Directory
+[NYC Space/Time Directory](http://spacetime.nypl.org/)   
+[NYPL op GitHub](https://github.com/NYPL)   
+[Slides](http://bertspaan.nl/nypl-talks/maps-camp/#0)   
+[NYPL Digital Collections](http://digitalcollections.nypl.org/)   
+[Map Warper](http://maps.nypl.org/warper)   
+[Building Inspector](http://buildinginspector.nypl.org/)   
+[Street View, Then & Now: New York City's Fifth Avenue](http://publicdomain.nypl.org/fifth-avenue/)
+[OldNYC](http://www.oldnyc.org/)   
+[Map Spy Viewer](http://maps.nls.uk/projects/layer-spy/index.html)   
+[Maps by Decade](http://spacetime.nypl.org/maps-by-decade/#/)      
+[The Green Book](http://publicdomain.nypl.org/greenbook-map/)  
+[The Green Book Trip Planner] (http://publicdomain.nypl.org/greenbook-map/trip.html)   
+[Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)   
+[CRF Classify](https://github.com/nypl-spacetime/crf-classify)
+[Kolerekaart](http://www.kolerekaart.nl/)
+
