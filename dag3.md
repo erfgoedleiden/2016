@@ -12,6 +12,6 @@
 [The Green Book](http://publicdomain.nypl.org/greenbook-map/)  
 [The Green Book Trip Planner] (http://publicdomain.nypl.org/greenbook-map/trip.html)   
 [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)   
-[CRF Classify](https://github.com/nypl-spacetime/crf-classify)
+[CRF Classify](https://github.com/nypl-spacetime/crf-classify)   
 [Kolerekaart](http://www.kolerekaart.nl/)
 
