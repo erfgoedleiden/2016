@@ -28,8 +28,6 @@
 [Uitleg over het actualiseren van BAG-gegevens in OpenStreetMap](http://forum.openstreetmap.org/viewtopic.php?pid=604357#p604357)   
 [Uitleg over wat een relation in OpenStreetMap is](http://forum.openstreetmap.org/viewtopic.php?id=55488)   
 
-![Flip-over OpenStreetMap](afbeeldingen/flip-over-osm.jpg)   
-
 ## Tyler Bird - Carto
 [Carto](http://www.carto.com)   
 [Tasks Missing Maps Mapathon april 2016](https://github.com/rodekruis/missingmaps/blob/gh-pages/tasks/benin/teams.md)   
