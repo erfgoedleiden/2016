@@ -14,4 +14,4 @@
 [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)   
 [CRF Classify](https://github.com/nypl-spacetime/crf-classify)   
 [Kolerekaart](http://www.kolerekaart.nl/)
-
+[Leuke d3 en leaflet tutorial](https://github.com/maptime-ams/Leaflet-D3-workshop)
