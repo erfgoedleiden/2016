@@ -45,8 +45,8 @@ Bron: 20160815 foto door Marga te Woerd
 ## Marijn Bosma noemt enkele mooie StoryMaps
 
 Bas van Delft, werkt bij Alterra. In deze Storymap heeft hij ook info overgenomen en ontsloten van 
-de okerkleurige boekjes met inhoudelijke toelichtingen bij de bladen van de Bodemkaart. 
-Aangevuld met eigen foto's en veldwerkgegevens.
+de okerkleurige boekjes met inhoudelijke toelichtingen bij de bladen van de Bodemkaart.   
+Aangevuld met eigen foto's en veldwerkgegevens.   
 [storymap over bodems van Nederland] (https://geodesk.maps.arcgis.com/apps/MapSeries/?appid=fb011dbc5037435ba3753369d7b0720b)
 
 Ken Arts, won met deze Storymap de ESRI studentenprijs 2016.
