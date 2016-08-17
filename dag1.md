@@ -54,8 +54,7 @@ Aangevuld met eigen foto's en veldwerkgegevens.
 ### Ken Arts   
 won met deze Storymap de ESRI studentenprijs 2016.   
 Atlas van de Ondergrond van Eindhoven   
-? hierbij is een password nodig ?
-[http://eindhoven.maps.arcgis.com/apps/MapJournal/index.html?appid=8de6a8b0b04a43d1a16f647f0262dd49](http://eindhoven.maps.arcgis.com/apps/MapJournal/index.html?appid=8de6a8b0b04a43d1a16f647f0262dd49)
+[https://t.co/qFydzTW1PZ](https://t.co/qFydzTW1PZ)
 
 ### Jeroen Groot   
 Onder meer historische geografie, van de Provincie Drenthe   
