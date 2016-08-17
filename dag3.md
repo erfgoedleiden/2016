@@ -1,5 +1,3 @@
-Dag 3
-
 # Bert Spaan - NYC Space/Time Directory
 [NYC Space/Time Directory](http://spacetime.nypl.org/)   
 [NYPL op GitHub](https://github.com/NYPL)   
