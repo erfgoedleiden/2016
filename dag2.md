@@ -29,7 +29,6 @@
 [Uitleg over wat een relation in OpenStreetMap is](http://forum.openstreetmap.org/viewtopic.php?id=55488)   
 
 ![Flip-over OpenStreetMap](afbeeldingen/flip-over-osm.jpg)   
-Bron: 20160815 foto door Marga te Woerd
 
 ## Tyler Bird - Carto
 [Carto](http://www.carto.com)   
